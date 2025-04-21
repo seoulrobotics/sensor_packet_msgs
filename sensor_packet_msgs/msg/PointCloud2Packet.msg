@@ -1,0 +1,3 @@
+sensor_msgs/PointCloud2 point_cloud
+float32 start_azimuth
+float32 end_azimuth
