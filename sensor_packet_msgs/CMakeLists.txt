@@ -1,3 +1,5 @@
+cmake_minimum_required(VERSION 3.21)
+
 project(sensor_packet_msgs)
 
 find_package(catkin REQUIRED COMPONENTS
